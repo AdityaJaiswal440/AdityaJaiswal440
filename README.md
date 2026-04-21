@@ -25,7 +25,7 @@
 ║                                                                      ║
 ║   $ cat /etc/aditya.conf                                             ║
 ║                                                                      ║
-║   NAME        →  Aditya Jaiswal                 Roll: 24AI007        ║
+║   NAME        →  Aditya Jaiswal                       
 ║   DEGREE      →  B.Tech · AI & Data Science · GSV Vadodara          ║
 ║   TIMELINE    →  Aug 2024 ──────────────────────▶ Jun 2028          ║
 ║   CGPA        →  8.0 / 10.0                                          ║
@@ -191,22 +191,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaJaiswal440&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true&radius=8&custom_title=Aditya's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## ❯ experience
-
-```yaml
-industrial_experience:
-  - role:         "Summer Intern"
-    org:          "DRM Office, Western Railway"
-    period:       "May 2025"
-    location:     "Vadodara, Gujarat"
-    highlights:
-      - "Analyzed real-time train traffic management signaling infrastructures"
-      - "Studied interlocking mechanisms & centralized communication networks"
-      - "Gained hands-on exposure to mission-critical data flow protocols"
-```
 
 ---
 
