@@ -204,7 +204,7 @@
 | 🤗 | **HuggingFace Live Deployment** | Neral-AI Platform hosted & accessible |
 | 🐙 | **Pull Shark** | GitHub Achievement Unlocked |
 | 📚 | **GitHub Daily Tracker — Open Source** | DSA + ML learning journey, public repos |
-| 🎸 | **Music Club — Executive Member** | Vocalist · Guitarist · Composer |
+| 🎸 | **Musical Alignment ** | Vocalist · Guitarist · Composer |
 
 </div>
 
