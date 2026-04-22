@@ -201,11 +201,10 @@
 | Badge | Achievement | Context |
 |:---:|---|---|
 | 🥉 | **Code Debugging Race — 3rd Place** | Competitive event · GSV · Feb 2025 |
-| 🎸 | **Music Club — Executive Member** | Vocalist · Guitarist · Composer |
-| 📚 | **GitHub Daily Tracker — Open Source** | DSA + ML learning journey, public repos |
-| 🎓 | **CGPA 8.0 / 10** | Gati Shakti Vishwavidyalaya (Central University) |
 | 🤗 | **HuggingFace Live Deployment** | Neral-AI Platform hosted & accessible |
 | 🐙 | **Pull Shark** | GitHub Achievement Unlocked |
+| 📚 | **GitHub Daily Tracker — Open Source** | DSA + ML learning journey, public repos |
+| 🎸 | **Music Club — Executive Member** | Vocalist · Guitarist · Composer |
 
 </div>
 
