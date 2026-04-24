@@ -201,7 +201,7 @@
 |:---:|---|---|
 | 🤗 | **HuggingFace Live Deployment** | Neral-AI Platform hosted & accessible |
 | 🥉 | **Code Debugging Race — 3rd Place** | Competitive event · GSV · Feb 2025 |
-| 🎸 | **Musical Geek ** | Vocalist · Guitarist · Composer |
+| 🎸 | **Musical Geek**  | Vocalist · Guitarist · Composer |
 | 🐙 | **Pull Shark** | GitHub Achievement Unlocked |
 | 📚 | **GitHub Daily Tracker — Open Source** | DSA + ML learning journey, public repos |
 
