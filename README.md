@@ -27,8 +27,7 @@
 ║                                                                      ║
 ║   NAME        →  Aditya Jaiswal                       
 ║   DEGREE      →  B.Tech · AI & Data Science · GSV Vadodara          ║
-║   TIMELINE    →  Aug 2024 ──────────────────────▶ Jun 2028          ║
-║   CGPA        →  8.0 / 10.0                                          ║
+║   TIMELINE    →  Aug 2024 ──────────────────────▶ Jun 2028          ║                                       ║
 ║   LOCATION    →  Vadodara, Gujarat, India  🇮🇳                        ║
 ║                                                                      ║
 ║   MISSION     →  Make AI not just intelligent, but interpretable.    ║
@@ -200,11 +199,11 @@
 
 | Badge | Achievement | Context |
 |:---:|---|---|
-| 🥉 | **Code Debugging Race — 3rd Place** | Competitive event · GSV · Feb 2025 |
 | 🤗 | **HuggingFace Live Deployment** | Neral-AI Platform hosted & accessible |
+| 🥉 | **Code Debugging Race — 3rd Place** | Competitive event · GSV · Feb 2025 |
+| 🎸 | **Musical Geek ** | Vocalist · Guitarist · Composer |
 | 🐙 | **Pull Shark** | GitHub Achievement Unlocked |
 | 📚 | **GitHub Daily Tracker — Open Source** | DSA + ML learning journey, public repos |
-| 🎸 | **Musical Alignment ** | Vocalist · Guitarist · Composer |
 
 </div>
 
