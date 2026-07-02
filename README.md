@@ -329,25 +329,15 @@ Docker containerized · 100% environment portability · Auto JSON latency report
 ## `$ cat experience.yaml`
 
 ```yaml
-industrial:
-  role:     Summer Intern
-  org:      DRM Office, Western Railway
-  period:   May 2025 – September 2025
-  location: Vadodara, Gujarat
-  metrics:
-    - "Analyzed 45+ signaling infrastructures across real-time traffic systems"
-    - "10-week model governance project — Python, industry compliance standards"
-    - "Cross-functional data flow protocols across multiple regional sectors"
-
 education:
   degree:   B.Tech Artificial Intelligence & Data Science
   inst:     Gati Shakti Vishwavidyalaya (Central University)
   period:   Aug 2024 – Jun 2028
   cgpa:     "8.50 (Sem 4) · 8.00 Cumulative"
 
-achievements:
-  - "🥉  Code Debugging Race · 3rd Place · GSV · Feb 2025"
-  - "🎸  Music Club Executive — Vocalist, Guitarist, Composer (500+ audience)"
+BARS:
+  - "🥉  Code Debugging Race · 3rd Place · Feb 2025"
+  - "🎸  Music — Vocalist, Guitarist, Composer "
   - "🟩  GitHub green streak — unbroken · Proof of Work enforced daily"
 ```
 
@@ -364,8 +354,7 @@ achievements:
 │   A black box in production is a liability.                              │
 │   I build the infrastructure between intelligence and accountability.    │
 │                                                                          │
-│                                               — Aditya Jaiswal           │
-│                                                 Founder, Neral AI        │
+│                                               — Aditya Jaiswal           │       │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
