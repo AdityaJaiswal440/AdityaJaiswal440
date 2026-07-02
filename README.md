@@ -25,6 +25,8 @@
 
 ## `$ cat /proc/aditya/status`
 
+<img align="right" src="README_2.gif" width="380" alt="Founder Mode"/>
+
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
@@ -278,15 +280,6 @@ Docker containerized · 100% environment portability · Auto JSON latency report
 
 ---
 
-## `$ trophy --display`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AdityaJaiswal440&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## `$ git log --graph --all --stat`
 
@@ -329,15 +322,25 @@ Docker containerized · 100% environment portability · Auto JSON latency report
 ## `$ cat experience.yaml`
 
 ```yaml
+industrial:
+  role:     Summer Intern
+  org:      DRM Office, Western Railway
+  period:   May 2025 – September 2025
+  location: Vadodara, Gujarat
+  metrics:
+    - "Analyzed 45+ signaling infrastructures across real-time traffic systems"
+    - "10-week model governance project — Python, industry compliance standards"
+    - "Cross-functional data flow protocols across multiple regional sectors"
+
 education:
   degree:   B.Tech Artificial Intelligence & Data Science
   inst:     Gati Shakti Vishwavidyalaya (Central University)
   period:   Aug 2024 – Jun 2028
   cgpa:     "8.50 (Sem 4) · 8.00 Cumulative"
 
-BARS:
-  - "🥉  Code Debugging Race · 3rd Place · Feb 2025"
-  - "🎸  Music — Vocalist, Guitarist, Composer "
+achievements:
+  - "🥉  Code Debugging Race · 3rd Place · GSV · Feb 2025"
+  - "🎸  Music Club Executive — Vocalist, Guitarist, Composer (500+ audience)"
   - "🟩  GitHub green streak — unbroken · Proof of Work enforced daily"
 ```
 
@@ -354,7 +357,8 @@ BARS:
 │   A black box in production is a liability.                              │
 │   I build the infrastructure between intelligence and accountability.    │
 │                                                                          │
-│                                               — Aditya Jaiswal           │       │
+│                                               — Aditya Jaiswal           │
+│                                                 Founder, Neral AI        │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
