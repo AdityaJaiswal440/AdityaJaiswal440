@@ -1,232 +1,367 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Aditya%20Jaiswal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=[%20Chasing%20:%20AI%20Engineer%20]%20%E2%80%A2%20MLOps%20Architect%20%E2%80%A2%20XAI%20Builder&descAlignY=65&descColor=c4b5fd&descSize=19" width="100%"/>
-</div>
+<!--
+████████████████████████████████████████████████████████████████████
+█  ADITYA JAISWAL — NERAL AI                                       █
+█  github.com/AdityaJaiswal440 · README v8.0 · Resume-Synced      █
+████████████████████████████████████████████████████████████████████
+-->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=🧠+I+don't+just+train+models+—+I+make+them+explainable;🚀+Bridging+the+Explainability-Action+Gap+since+2026;⚡+XGBoost+%7C+FastAPI+%7C+Docker+%7C+KernelSHAP+%7C+Streamlit;🎓+B.Tech+AI+%26+DS+%40+Gati+Shakti+Vishwavidyalaya;🎸+Code+by+day.+Compose+by+night.+Ship+always.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=280&section=header&text=ADITYA%20JAISWAL&fontSize=72&fontColor=e2d9f3&animation=fadeIn&fontAlignY=42&desc=Founder%2C%20Neral%20AI%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20XAI%20%2B%20NLP%20Systems&descAlignY=63&descColor=9d7fe0&descSize=18&stroke=6d28d9&strokeWidth=2" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=2400&pause=700&color=9D7FE0&center=true&vCenter=true&width=780&lines=TensorRank%3A+100K+candidates+ranked+in+%3C2min+%E2%80%94+air-gapped+Docker;Neral-AI%3A+85.0%25+F1+%7C+15%25+↓+misclassification+%7C+60K%2B+logs;Zero+black+boxes.+KernelSHAP+on+every+prediction.;Founder+%40+Neral+AI+%E2%80%94+MaaS+churn+engine+for+B2B+enterprise;Daily+commits.+Green+streak.+Proof+of+Work+%3E+Everything.)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/19adityakumar)
+[![Neral AI](https://img.shields.io/badge/🧠_Neral_AI_Live-6d28d9?style=for-the-badge)](https://neral-ai.streamlit.app/)
+[![HuggingFace](https://img.shields.io/badge/🤗_HF_Spaces-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/AdityaJaiswal440)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiswalaadi193919@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaJaiswal440)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HF%20Spaces-FFD21E?style=for-the-badge)](https://huggingface.co)
-[![Profile Views](https://komarev.com/ghpvc/?username=AdityaJaiswal440&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AdityaJaiswal440)
+[![Profile Views](https://komarev.com/ghpvc/?username=AdityaJaiswal440&color=6d28d9&style=for-the-badge&label=VIEWS)](https://github.com/AdityaJaiswal440)
 
 </div>
 
 ---
 
-## ❯ whoami
+## `$ cat /proc/aditya/status`
 
-```console
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   $ cat /etc/aditya.conf                                             ║
-║                                                                      ║
-║   NAME        →  Aditya Jaiswal                       
-║   DEGREE      →  B.Tech · AI & Data Science · GSV Vadodara          ║
-║   TIMELINE    →  Aug 2024 ──────────────────────▶ Jun 2028          ║                                       ║
-║   LOCATION    →  Vadodara, Gujarat, India  🇮🇳                        ║
-║                                                                      ║
-║   MISSION     →  Make AI not just intelligent, but interpretable.    ║
-║                                                                      ║
-║   FOCUS       →  XAI  |  MLOps  |  REST APIs  |  Feature Eng.       ║
-║   BUILDING    →  Neral-AI v6.1 — Diagnostic Intelligence Platform    ║
-║   OPEN TO     →  Internships · Research · Open Source Collabs        ║
-║                                                                      ║
-║   FUN FACT    →  I debug code AND chord progressions. 🎸             ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+<img align="right" src="README_2.gif" width="380" alt="Founder Mode"/>
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║  IDENTITY   →  Aditya Jaiswal · Founder, Neral AI · 24AI007             ║
+║  DEGREE     →  B.Tech AI & Data Science · GSV Vadodara                  ║
+║  CGPA       →  8.50 (Sem 4) · 8.00 Cumulative · out of 10.00            ║
+║  LOCATION   →  Vadodara, Gujarat, India 🇮🇳                               ║
+║                                                                           ║
+║  DOMAIN     →  Predictive ML · XAI · NLP/Embeddings · MLOps             ║
+║  BUILDING   →  Universal Retention Engine (MaaS) — B2B Churn API        ║
+║  VERTICALS  →  Aviation · Retail · Logistics · SaaS                      ║
+║                                                                           ║
+║  LAW        →  No black boxes. If SHAP can't explain it, it ships.       ║
+║  ENV        →  Ubuntu Linux · Docker · FastAPI · XGBoost · Python        ║
+║  PROOF      →  git log --since=yesterday | wc -l → ≥ 1 (enforced)       ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## ❯ tech.stack
+## `$ ls -lt /projects/ | head -10`
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TIER 1 — TENSORRANK                                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,c,mysql&theme=dark)](https://skillicons.dev)
+### 🔐 [`TensorRank`](https://github.com/AdityaJaiswal440) — Air-Gapped Ranking Engine `[2026]`
 
-### AI · ML · XAI
-[![My Skills](https://skillicons.dev/icons?i=sklearn&theme=dark)](https://skillicons.dev)
-&nbsp;
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white&labelColor=1a1a2e)
-![KernelSHAP](https://img.shields.io/badge/KernelSHAP-7C3AED?style=flat-square&logoColor=white&labelColor=1a1a2e)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e)
-![Explainable AI](https://img.shields.io/badge/Explainable_AI-6C3483?style=flat-square&logoColor=white&labelColor=1a1a2e)
+> Independent Architecture · Python · Docker · all-MiniLM-L6-v2 · NumPy · FP16
 
-### MLOps · Deployment
-[![My Skills](https://skillicons.dev/icons?i=fastapi,docker,git,linux&theme=dark)](https://skillicons.dev)
-&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=1a1a2e)
-![HuggingFace](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1a2e)
-![REST API](https://img.shields.io/badge/REST_Gateway-009688?style=flat-square&logoColor=white&labelColor=1a1a2e)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Systems · Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=github,mysql,ubuntu&theme=dark)](https://skillicons.dev)
-&nbsp;
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white&labelColor=1a1a2e)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white&labelColor=1a1a2e)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white&labelColor=1a1a2e)
+**Pipeline Architecture**
+```python
+# Zero-drift deterministic ranking
+# FP16 dense embeddings · 10-dim heuristic matrix
 
-</div>
+embeddings = model.encode(
+    candidates,
+    precision="float16"          # FP16 — memory-efficient
+)
+scores = heuristic_matrix @      # monotonic heap sort
+         embeddings.T            # absolute reproducibility ✓
 
----
+# Adversarial Defense Layer
+entropy = shannon_entropy(tokens)
+assert entropy > 2.2,            # honeypot guard
+    "Keyword-stuffing detected"  # chronological inversion ✓
+```
 
-## ❯ projects.flagship
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+**Performance Benchmarks**
+```
+Records processed   →  100,000+ candidates
+Ingestion time      →  < 2 minutes
+Peak memory cap     →  < 3 GB
+Drift               →  ZERO (deterministic)
+Network exposure    →  ZERO (--network none)
+Vector source       →  pre-packaged local matrices
+Shannon entropy     →  < 2.2 threshold enforced
+Reproducibility     →  absolute (monotonic heap sort)
+```
 
-### 🧠 Neral-AI — Distributed Diagnostic Intelligence Platform v6.1
-
-[![Neral-AI](https://github-readme-stats.vercel.app/api/pin/?username=AdityaJaiswal440&repo=Neral-AI-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/AdityaJaiswal440/Neral-AI-Platform)
-
-</div>
+</td>
+</tr>
+</table>
 
 ```
- ARCHITECTURE OVERVIEW
- ─────────────────────────────────────────────────────────────────────────
-
-  [Raw Input Data]
-       │
-       ▼
-  ┌─────────────────────────────────┐
-  │   sklearn.Pipeline              │  ← One-Hot Encoding + Feature Eng.
-  │   (Index Displacement FIXED ✓)  │     1:1 data integrity guaranteed
-  └──────────────┬──────────────────┘
-                 │
-                 ▼
-  ┌─────────────────────────────────┐
-  │  Harmonically Terminated        │  ← γ = 0.1 | λ = 1.0
-  │  XGBoost Core v6.1              │     F1-Macro Score: 85.0% ✦
-  └──────────────┬──────────────────┘
-                 │
-                 ▼
-  ┌─────────────────────────────────┐
-  │  KernelSHAP  →  Atomic Force    │  ← Explainability-Action Gap (EAG)
-  │  Log Generator                  │     BRIDGED ✓
-  └──────────────┬──────────────────┘
-                 │
-                 ▼
-  ┌─────────────────────────────────┐
-  │  FastAPI / Streamlit            │  ← Fail-Closed environment guards
-  │  REST Gateway (Decoupled)       │     Hosted: Hugging Face Spaces ☁️
-  └─────────────────────────────────┘
-
- IMPACT: Opaque risk scores → Actionable enterprise retention intelligence
- ─────────────────────────────────────────────────────────────────────────
+DEFENSE STACK:
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  [Raw 100K Candidate Stream]                                    │
+  │         │                                                       │
+  │         ▼                                                       │
+  │  Generator-based ingestion pipeline  ← memory < 3GB enforced   │
+  │         │                                                       │
+  │         ▼                                                       │
+  │  Shannon Entropy Audit (< 2.2)  ← keyword-stuffing eliminated  │
+  │  Chronological Inversion Guard  ← synthetic profiles flagged   │
+  │         │                                                       │
+  │         ▼                                                       │
+  │  FP16 Dense Embeddings (all-MiniLM-L6-v2)                      │
+  │  10-Dimensional Heuristic Matrix                                │
+  │         │                                                       │
+  │         ▼                                                       │
+  │  Monotonic Heap Sort  →  Top-100 ranked output (deterministic) │
+  │         │                                                       │
+  │         ▼                                                       │
+  │  Air-Gapped Docker (--network none)  ← zero external calls     │
+  └─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TIER 1 — NERAL AI                                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### Other Projects
+### 🧠 [`Neral-AI Platform v6.1`](https://github.com/AdityaJaiswal440/Neral-AI-Platform) — Universal Retention Engine `[LIVE]`
 
-[![BTC Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=AdityaJaiswal440&repo=btc-signal-mlops-task&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/AdityaJaiswal440/btc-signal-mlops-task)
-[![SAFAR](https://github-readme-stats.vercel.app/api/pin/?username=AdityaJaiswal440&repo=SAFAR_Travel_Planner&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/AdityaJaiswal440/SAFAR_Travel_Planner)
+> Founder Project · MaaS B2B Churn API · Apache 2.0 · Python · XGBoost · KernelSHAP · FastAPI · Docker · Streamlit
 
-[![VoxSnake](https://github-readme-stats.vercel.app/api/pin/?username=AdityaJaiswal440&repo=VoxSnake&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/AdityaJaiswal440/VoxSnake)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+**Core Results**
+```
+Misclassification reduction   →  15%
+Retention campaign uplift     →  20%
+F1-Macro Score (validated)    →  85.0%
+Training logs processed       →  60,000+
+Deployment                    →  Hugging Face Spaces ☁️
+```
+
+**XGBoost Core**
+```python
+# Harmonically Terminated Core
+xgb = XGBClassifier(
+    gamma=0.1,        # leaf pruning
+    reg_lambda=1.0,   # L2 weight regularization
+    # stable decision manifold across domains
+)
+
+# KernelSHAP — mandatory, not optional
+explainer = shap.KernelExplainer(
+    xgb.predict_proba,
+    X_background          # Atomic Force Log output
+)
+# Index Displacement Anomaly: FIXED ✓
+# 1:1 OHE ↔ SHAP attribution integrity: ENFORCED ✓
+```
+
+</td>
+<td width="50%" valign="top">
+
+**Production Topology**
+```
+  [Enterprise Data Stream]
+          │
+          ▼
+  sklearn.Pipeline (OHE)
+  Index Displacement: FIXED ✓
+          │
+          ▼
+  XGBoost Core (γ=0.1, λ=1.0)
+  F1-Macro: 85.0% ✓
+          │
+          ▼
+  KernelSHAP
+  → Atomic Force Logs (EAG bridged)
+          │
+          ▼
+  FastAPI Microservice
+  Fail-Closed REST Gateway
+  HTTPS hardened ✓
+          │
+          ▼
+  Hugging Face Spaces ☁️
+  Streamlit Dashboard
+```
+
+</td>
+</tr>
+</table>
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live-neral--ai.streamlit.app-6d28d9?style=flat-square)](https://neral-ai.streamlit.app/)
+[![Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-9d7fe0?style=flat-square)](https://github.com/AdityaJaiswal440/Neral-AI-Platform)
 
 ---
 
-## ❯ github.stats
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TIER 2 — BTC PIPELINE                                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### ₿ [`BTC MLOps Batch Pipeline`](https://github.com/AdityaJaiswal440/btc-signal-mlops-task) — Deterministic Signal Engine `[2026]`
+
+`Python` · `Docker (python:3.9-slim)` · `Pandas` · `NumPy` · `YAML`
+
+```
+Bitcoin OHLCV → Binary trading signals · 7+ structured logging milestones
+Docker containerized · 100% environment portability · Auto JSON latency reports
+```
+
+---
+
+## `$ neofetch --skills`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaJaiswal440&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed"/>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,mysql&theme=dark"/>
+
+**AI · ML · XAI · NLP**
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJaiswal440&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![KernelSHAP](https://img.shields.io/badge/KernelSHAP-6d28d9?style=flat-square)
+![LIME](https://img.shields.io/badge/LIME-9d7fe0?style=flat-square)
+![Dense Embeddings](https://img.shields.io/badge/Dense_Embeddings-4B0082?style=flat-square)
+![FP16](https://img.shields.io/badge/FP16_Processing-1a1a2e?style=flat-square&labelColor=6d28d9)
+![Bi-Encoder](https://img.shields.io/badge/Bi%2FCross_Encoders-2d1b69?style=flat-square)
+![all-MiniLM](https://img.shields.io/badge/all--MiniLM--L6--v2-FFD21E?style=flat-square&logoColor=black)
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdityaJaiswal440&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e)](https://git.io/streak-stats)
+**MLOps · Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux,github&theme=dark"/>
+&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HF_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![REST](https://img.shields.io/badge/REST_Gateway-009688?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA_(C)-00599C?style=flat-square&logo=c&logoColor=white)
 
 </div>
 
 ---
 
-## ❯ trophies
+## `$ github-stats --user AdityaJaiswal440`
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=AdityaJaiswal440&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AdityaJaiswal440&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d0d14&title_color=9d7fe0&icon_color=6d28d9&text_color=c9d1d9&ring_color=6d28d9"/>
+&nbsp;&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJaiswal440&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=9d7fe0&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdityaJaiswal440&theme=tokyonight-duo&hide_border=true&background=0d0d14&ring=6d28d9&fire=ff4500&currStreakLabel=9d7fe0&sideLabels=9d7fe0&dates=8b949e&currStreakNum=e2d9f3&sideNums=e2d9f3)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaJaiswal440&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaJaiswal440&theme=tokyonight" height="155em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaJaiswal440&theme=tokyonight" height="155em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaJaiswal440&theme=tokyonight&utcOffset=5.5" height="155em"/>
 
 </div>
 
 ---
 
-## ❯ contributions.snake
+
+## `$ git log --graph --all --stat`
 
 <div align="center">
-
-<!-- 
-  SETUP: Add the GitHub Action below (.github/workflows/snake.yml)
-  to auto-generate this snake every 24h from your contributions.
--->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaJaiswal440/AdityaJaiswal440/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaJaiswal440/AdityaJaiswal440/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/AdityaJaiswal440/AdityaJaiswal440/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AdityaJaiswal440/AdityaJaiswal440/output/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AdityaJaiswal440/AdityaJaiswal440/output/profile-3d-contrib/profile-south-season-animate.svg"/>
+  <img alt="3D Contribution Calendar"
+    src="https://raw.githubusercontent.com/AdityaJaiswal440/AdityaJaiswal440/output/profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AdityaJaiswal440/AdityaJaiswal440/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AdityaJaiswal440/AdityaJaiswal440/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/AdityaJaiswal440/AdityaJaiswal440/output/github-contribution-grid-snake-dark.svg"
+    width="100%"/>
 </picture>
 
 </div>
 
 ---
 
-## ❯ activity.graph
+## `$ cat activity.log`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaJaiswal440&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true&radius=8&custom_title=Aditya's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaJaiswal440&bg_color=0d0d14&color=9d7fe0&line=6d28d9&point=e2d9f3&area=true&area_color=6d28d9&hide_border=true&radius=6&custom_title=Daily%20Proof%20of%20Work)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## ❯ Till Date:
+## `$ cat experience.yaml`
 
-<div align="center">
+```yaml
+industrial:
+  role:     Summer Intern
+  org:      DRM Office, Western Railway
+  period:   May 2025 – September 2025
+  location: Vadodara, Gujarat
+  metrics:
+    - "Analyzed 45+ signaling infrastructures across real-time traffic systems"
+    - "10-week model governance project — Python, industry compliance standards"
+    - "Cross-functional data flow protocols across multiple regional sectors"
 
-| Badge | Tasks | Context |
-|:---:|---|---|
-| 🤗 | **HuggingFace Live Deployment** | Neral-AI Platform hosted & accessible |
-| 🥉 | **Code Debugging Race** | Competitive event · GSV · Feb 2025 |
-| 🎸 | **Musical Geek**  | Vocalist · Guitarist · Composer |
-| 🐙 | **Pull Shark** | GitHub Achievement Unlocked |
-| 📚 | **GitHub Daily Tracker — Open Source** | DSA + ML learning journey, public repos |
+education:
+  degree:   B.Tech Artificial Intelligence & Data Science
+  inst:     Gati Shakti Vishwavidyalaya (Central University)
+  period:   Aug 2024 – Jun 2028
+  cgpa:     "8.50 (Sem 4) · 8.00 Cumulative"
 
-</div>
+achievements:
+  - "🥉  Code Debugging Race · 3rd Place · GSV · Feb 2025"
+  - "🎸  Music Club Executive — Vocalist, Guitarist, Composer (500+ audience)"
+  - "🟩  GitHub green streak — unbroken · Proof of Work enforced daily"
+```
 
 ---
 
-## ❯ philosophy
+## `$ echo $AXIOM`
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   "A model that can't explain itself is a black box.            │
-│    A black box in production is a liability.                     │
-│    I build the bridge between the two."                          │
-│                                                                  │
-│                                        — Aditya Jaiswal          │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   A model that cannot explain itself is a black box.                     │
+│   A black box in production is a liability.                              │
+│   I build the infrastructure between intelligence and accountability.    │
+│                                                                          │
+│                                               — Aditya Jaiswal           │
+│                                                 Founder, Neral AI        │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
-
-*Also: I find the same satisfaction resolving a merge conflict and a chord progression.*
-*Both demand precision. Both feel like magic when they click.* 🎸
 
 </div>
 
@@ -234,14 +369,12 @@
 
 <div align="center">
 
-**📬 Let's build something extraordinary together**
+**`Open to: AI Engineering Internships · B2B Enterprise Pilots · Research Collabs`**
 
-[![Connect](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/19adityakumar)
-[![Mail](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiswalaadi193919@gmail.com)
-[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaJaiswal440)
-
-*Open to internships · research collaborations · open source projects*
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/19adityakumar)
+[![Neral AI](https://img.shields.io/badge/Neral_AI-6d28d9?style=for-the-badge)](https://neral-ai.streamlit.app/)
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiswalaadi193919@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,100:0a0a0f&height=140&section=footer&text=Proof%20of%20Work%20%3E%20Everything&fontSize=18&fontColor=6d28d9&fontAlignY=65" width="100%"/>
