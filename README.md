@@ -25,18 +25,18 @@
 ║                                                                      ║
 ║   $ cat /etc/aditya.conf                                             ║
 ║                                                                      ║
-║   NAME        →  Aditya Jaiswal                       
-║   DEGREE      →  B.Tech · AI & Data Science · GSV Vadodara          ║
+║   NAME        →  Aditya Jaiswal                                      |
+║   DEGREE      →  B.Tech · AI & Data Science · GSV Vadodara           ║
 ║   TIMELINE    →  Aug 2024 ──────────────────────▶ Jun 2028          ║                                       ║
 ║   LOCATION    →  Vadodara, Gujarat, India  🇮🇳                        ║
 ║                                                                      ║
 ║   MISSION     →  Make AI not just intelligent, but interpretable.    ║
 ║                                                                      ║
-║   FOCUS       →  XAI  |  MLOps  |  REST APIs  |  Feature Eng.       ║
+║   FOCUS       →  ML  |  MLOps  |  REST APIs  |  NLP  | DL          ║
 ║   BUILDING    →  Neral-AI v6.1 — Diagnostic Intelligence Platform    ║
 ║   OPEN TO     →  Internships · Research · Open Source Collabs        ║
 ║                                                                      ║
-║   FUN FACT    →  I debug code AND chord progressions. 🎸             ║
+║                  I debug code AND chord progressions.                ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
