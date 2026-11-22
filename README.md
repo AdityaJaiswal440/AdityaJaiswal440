@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=🧠+I+don't+just+train+models+—+I+make+them+explainable;🚀+Bridging+the+Explainability-Action+Gap+since+2026;⚡+XGBoost+%7C+FastAPI+%7C+Docker+%7C+KernelSHAP+%7C+Streamlit;🎓+B.Tech+AI+%26+DS+%40+Gati+Shakti+Vishwavidyalaya;🎸+Code+by+day.+Compose+by+night.+Ship+always.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=🧠+train+models+—+making+them+explainable;+Bridging+the+Explainability-Action+Gap+since+2026;⚡+XGBoost+%7C+FastAPI+%7C+Docker+%7C+KernelSHAP+%7C;🎓+B.Tech+AI+%26+DS+%40+Gati+Shakti+Vishwavidyalaya;+Ship+always.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -220,13 +220,13 @@
 │    A black box in production is a liability.                     │
 │    I build the bridge between the two."                          │
 │                                                                  │
-│                                        — Aditya Jaiswal          │
+│                                                                  │
 │                                                                  │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
 *Also: I find the same satisfaction resolving a merge conflict and a chord progression.*
-*Both demand precision. Both feel like magic when they click.* 🎸
+*Both demand precision. Both feel like magic when they click.* 
 
 </div>
 
